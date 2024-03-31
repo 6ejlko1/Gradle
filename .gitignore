@@ -5,6 +5,7 @@ src/
 .gradle/
 build/
 .gitattributes
+*/build/tmp/
 
 
 
